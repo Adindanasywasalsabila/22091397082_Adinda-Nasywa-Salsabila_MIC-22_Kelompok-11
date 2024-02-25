@@ -5,4 +5,4 @@ Tugas kelompok 11
 3. Hkang Yochanan Tdamu (22091397107) 2022C
 
 Link laporan pemrograman mobile kelompok 11 :
-https://drive.google.com/file/d/14dXeTkX2y-0oidm0F6RS_jVLDOv2IVIG/view?usp=drivesdk
+https://drive.google.com/file/d/1q_cgV5o2CVWynRK_AzZNPXXYrYNqRBYp/view?usp=drive_link
