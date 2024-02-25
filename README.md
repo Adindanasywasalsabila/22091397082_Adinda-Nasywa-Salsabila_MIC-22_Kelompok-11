@@ -1,4 +1,4 @@
-# 22091397082_Adinda-Nasywa-Salsabila_MIC-22_Kelompok-11
+# 22091397082_Adinda-Nasywa-Salsabila_MIC-22_Kelompok-11_Pemrograman Mobile
 Tugas kelompok 11
 1. Adinda Nasywa Salsabila (22091397082) 2022C
 2. M. Husein Abdillah (22091397091) 2022C
