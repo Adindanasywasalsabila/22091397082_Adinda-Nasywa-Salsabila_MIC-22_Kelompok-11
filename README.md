@@ -1,5 +1,8 @@
-# 22091397082_Adinda-Nasywa-Salsabila_MIC-22_Kelompok-11_Pemrograman Mobile
+# 22091397082_Adinda Nasywa Salsabila_MIC 22_Kelompok 11_Pemrograman Mobile
 Tugas kelompok 11
 1. Adinda Nasywa Salsabila (22091397082) 2022C
 2. M. Husein Abdillah (22091397091) 2022C
 3. Hkang Yochanan Tdamu (22091397107) 2022C
+
+Link laporan pemrograman mobile kelompok 11 :
+https://drive.google.com/file/d/14dXeTkX2y-0oidm0F6RS_jVLDOv2IVIG/view?usp=drivesdk
